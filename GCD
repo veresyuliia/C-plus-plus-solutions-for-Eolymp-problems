@@ -2,7 +2,7 @@
 
 using namespace std;
 
-long long gcd(long long a,long long b)
+long long gcd(long long a,long long b) 
 {
     if(b>0)
     {
